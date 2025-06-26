@@ -110,7 +110,7 @@ Web app using Streamlit or Flask
 
 Ujjwal Mishra
 AI & ML Intern — Elevate Labs
-GitHub Profile - 
+GitHub Profile - https://github.com/Ujjwal-Asta
 
 
 ---
